@@ -1,5 +1,61 @@
 *{
-    margin: 0;
-    padding:0 ;
+    margin: 0px;
+    padding:0px ;
     box-sizing: border-box;
+    border: 1px solid  ;
 }
+
+body{
+    background-color: black;
+    
+
+}
+
+#app-launch{
+    margin-left: 23.2vh ;
+    margin-right: 23.2vh ;
+    background-color: white;
+    border-color: blue;
+    height: auto;
+}
+
+.sections{
+    width:100% ;
+    overflow: hidden; /* incase elements start moving out of the div*/
+}
+
+#header {
+    height: 111vh;
+    border-color: red;
+}
+
+#the-app {
+    height: 65.2vh ;
+    border-color: yellow;
+
+}
+
+#clarity{
+   height: 65.1vh ;
+   border-color:darkorchid
+}
+
+#features {
+    height: 90vh ;
+    border-color: pink;
+}
+
+#pricing {
+    height:101vh ;
+    border-color: green;
+}
+
+#footer {
+    height:19vh ;
+    border-color: cyan;
+}
+
+h1{
+    border: none;
+}
+
