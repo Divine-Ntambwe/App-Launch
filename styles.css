@@ -12,8 +12,6 @@ body{
 }
 
 #app-launch{
-    margin-left: 23.2vh ;
-    margin-right: 23.2vh ;
     background-color: white;
     border-color: blue;
     height: auto;
@@ -25,33 +23,33 @@ body{
 }
 
 #header {
-    height: 111vh;
+    height: 142.5vh;
     border-color: red;
 }
 
 #the-app {
-    height: 65.2vh ;
+    height: 97vh ;
     border-color: yellow;
 
 }
 
 #clarity{
-   height: 65.1vh ;
+   height:98vh ;
    border-color:darkorchid
 }
 
 #features {
-    height: 90vh ;
+    height: 130vh ;
     border-color: pink;
 }
 
 #pricing {
-    height:101vh ;
+    height:140vh ;
     border-color: green;
 }
 
 #footer {
-    height:19vh ;
+    height:28vh ;
     border-color: cyan;
 }
 
