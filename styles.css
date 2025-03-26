@@ -2,7 +2,7 @@
     margin: 0px;
     padding:0px ;
     box-sizing: border-box;
-    border: 1px solid  ;
+    font-family:"Poppins", sans-serif ;
 }
 
 body{
@@ -24,38 +24,125 @@ body{
 
 #header {
     height: 142.5vh;
-    border-color: red;
+    border: 3px solid red;
 }
 
 #the-app {
-    height: 97vh ;
-    border-color: yellow;
+    height: 105vh ;
+    border: 3px solid blueviolet;
 
 }
 
 #clarity{
    height:98vh ;
-   border-color:darkorchid
+   border: 3px solid rgb(226, 43, 113);
+   
 }
 
 #features {
     height: 130vh ;
-    border-color: pink;
+    border: 3px solid rgb(226, 131, 43);
 }
 
 #pricing {
     height:140vh ;
-    border-color: green;
+    border: 3px solid rgb(43, 55, 226);
 }
 
 #footer {
     height:28vh ;
-    border-color: cyan;
+    border: 3px solid rgb(80, 226, 43);
 }
 
 h1{
     border: none;
 }
+.App-section{
+    border: 3px solid blue;
+    height: 16vh;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 24px;
+}
+.TheApp-part{
+    font-size: 85px;
+    font-family: "Poppins", sans-serif;
+}
+.Buyit-part{
+    border: 3px solid rgb(255, 17, 0);
+    height: 16vh;
+    width: 30%;
+    margin-top: 14px;
+    margin-left: 24px;
+}
+.Thebuyit-part{
+    font-size: 64px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: #4CAF50 ;
+}
+.first-Paragraph{
+    border: 3px solid rgb(255, 123, 0);
+    height: 23vh;
+    width: 65%;
+    margin-top: 3px;
+    margin-left: 24px;
+}
+.Photos-Paragraph{
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+}
+.Theparagraph-part{
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;  
+    font-weight: 200;
+}
+.button-section{
+    border: 3px solid rgb(145, 255, 0);
+    height: 8vh;
+    width: 18%;
+    margin-top: 4px;
+    margin-left: 24px;
+    background-color: #f1f1f1;
+}
+.button-part{
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    margin-top: 3%;
 
-
-
+}
+.Thebutton-part{
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+    border-style: none;
+}
+.option-section{
+    border: 3px solid rgb(0, 102, 255);
+    height: 9vh;
+    width: 17%;
+    margin-top: 41px;
+    margin-left: 24px;
+}
+.option-part{
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+}
+.fa-android{
+    color: #4CAF50;
+    width: 7%;
+}
+.fa-apple{
+    color: black;
+    width: 7%;
+}
+.fa-windows{
+    color: #2196F3 ;
+}
+.image-section{
+    margin-top: -615px;
+    margin-left: 1300px; 
+}
+img{
+    width: 445px;
+}
