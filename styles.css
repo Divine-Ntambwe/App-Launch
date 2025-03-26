@@ -59,6 +59,10 @@ body{
     height:28vh ;
     border: 3px solid rgb(80, 226, 43);
     background-color: #f1f1f1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h1{
@@ -315,10 +319,32 @@ td{
    
 }
 
+#footer-icons {
+    font-size: 36px;
+    color: black ;
+    margin-bottom: 25px ;
+    
 
+}
 
+#footer-link {
+    font-size: 23px ;
 
+}
 
+#footer-link a {
+   text-decoration: underline;
+
+}
+
+#footer-link a:visited {
+    color: inherit;
+}
+
+#footer-link a:hover{
+    color:#4CAF50 ;
+    cursor: grab ;
+}
 
 .Thebutton-part{
     font-size: 21px;
