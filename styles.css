@@ -113,6 +113,7 @@ h1{
     font-family: "Poppins", sans-serif;
     text-align: center;
     margin-top: 3%;
+}
 
 #header img{
     width: 100%;
@@ -190,8 +191,6 @@ h1{
 
 
 
-
-}
 .Thebutton-part{
     font-size: 21px;
     font-family: "Poppins", sans-serif;
@@ -208,15 +207,15 @@ h1{
     font-size: 21px;
     font-family: "Poppins", sans-serif;
 }
-.fa-android{
+#the-app .fa-android{
     color: #4CAF50;
     width: 7%;
 }
-.fa-apple{
+#the-app .fa-apple{
     color: black;
     width: 7%;
 }
-.fa-windows{
+#the-app .fa-windows{
     color: #2196F3 ;
 }
 .image-section{
