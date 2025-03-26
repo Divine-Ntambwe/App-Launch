@@ -2,7 +2,7 @@
     margin: 0px;
     padding:0px ;
     box-sizing: border-box;
-    border: 1px solid  ;
+    font-family: "Poppins", sans-serif;
 }
 
 body{
@@ -25,10 +25,13 @@ body{
 #header {
     height: 142.5vh;
     border-color: red;
+    color: #fff ;
+    position: relative ;
+    
 }
 
 #the-app {
-    height: 97vh ;
+    height: 105vh ;
     border-color: yellow;
 
 }
@@ -56,6 +59,81 @@ body{
 h1{
     border: none;
 }
+
+#header img{
+    width: 100%;
+    height: 100%;
+
+}
+
+#header div {
+    margin-left: 2.5vh ;
+}
+
+
+#download-section{
+    background-color: black;
+    opacity: 55%;
+    height:34.5vh;
+    width: 69vh;
+    border-radius: 15px;
+    position: absolute;
+    margin-top: 25%; 
+    color: #fff ;
+    text-align: center;
+    padding: 4vh;
+
+  }
+
+#download-section h4 {
+    font-size: 36px;
+    padding-bottom: 3.5vh;
+    font-weight: lighter;
+  
+}  
+
+#download-section p{
+    font-size: 24px ;
+    padding-top: 3vh ;
+    padding-bottom: 3vh;
+
+}
+  
+#download-button {
+    background-color: #4CAF50;
+    font-size: 24px;
+    color: #fff ;
+    border-radius: 4px;
+    width: 100% ;
+    height: 6vh ;
+    border: none ;
+  }
+  
+#download-section:hover {
+    opacity: 100%;
+    cursor:grab;
+  }
+
+#download-button:hover {
+    background-color: #ccc;
+    color: black ;
+    cursor:grab;
+}  
+
+#take-tour {
+    position: absolute;
+    background-color: black;
+    height: 6.8vh ;
+    width: 20vh ;
+    color: #fff ;
+    font-size: 24px ;
+    border-radius: 5px;
+    margin-left: 89.5%;
+    margin-top: 32% ;
+    border: none;
+}
+
+
 
 
 
