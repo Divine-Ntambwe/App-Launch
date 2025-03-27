@@ -32,13 +32,13 @@ body{
 
 #the-app {
     height: 105vh ;
-    border: 3px solid blueviolet;
+    /* border: 3px solid blueviolet; */
 
 }
 
 #clarity{
-   height:98vh ;
-   border: 3px solid rgb(226, 43, 113);
+   height:100vh ;
+   border: 3px solid rgb(255, 255, 255);
    
 }
 
@@ -61,7 +61,7 @@ h1{
     border: none;
 }
 .App-section{
-    border: 3px solid blue;
+    /* border: 3px solid blue; */
     height: 16vh;
     width: 30%;
     margin-top: 5%;
@@ -72,7 +72,7 @@ h1{
     font-family: "Poppins", sans-serif;
 }
 .Buyit-part{
-    border: 3px solid rgb(255, 17, 0);
+    /* border: 3px solid rgb(255, 17, 0); */
     height: 16vh;
     width: 30%;
     margin-top: 14px;
@@ -85,7 +85,7 @@ h1{
     color: #4CAF50 ;
 }
 .first-Paragraph{
-    border: 3px solid rgb(255, 123, 0);
+    /* border: 3px solid rgb(255, 123, 0); */
     height: 23vh;
     width: 65%;
     margin-top: 3px;
@@ -101,7 +101,7 @@ h1{
     font-weight: 200;
 }
 .button-section{
-    border: 3px solid rgb(145, 255, 0);
+    /* border: 3px solid rgb(145, 255, 0); */
     height: 8vh;
     width: 18%;
     margin-top: 4px;
@@ -197,7 +197,7 @@ h1{
     border-style: none;
 }
 .option-section{
-    border: 3px solid rgb(0, 102, 255);
+    /* border: 3px solid rgb(0, 102, 255); */
     height: 9vh;
     width: 17%;
     margin-top: 41px;
@@ -225,3 +225,62 @@ h1{
 img{
     width: 445px;
 }
+.secondimg-section{
+    margin-top: 5%;
+    margin-left: 20px;
+
+}
+.second-part{
+    filter: grayscale(75%);
+}
+.clarity-sections{
+    background-color: #f1f1f1;
+}
+.clarity-section{
+    /* border: 3px solid blue; */
+    height: 16vh;
+    width: 30%;
+    margin-top: -34%;
+    margin-left: 606px;
+}
+.Theclarity-part{
+    font-size: 85px;
+    font-family: "Poppins", sans-serif;
+}
+.Pixels-part{
+    /* border: 3px solid rgb(255, 17, 0); */
+    height: 16vh;
+    width: 30%;
+    margin-top: 1%;
+    margin-left: 606px;
+}
+.Thepixels-part{
+    font-size: 63px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: #f44336 ;
+}
+.second-Paragraph{
+    /* border: 3px solid rgb(255, 123, 0); */
+    height: 23vh;
+    width: 65%;
+    margin-top: 2px;
+    margin-left: 606px;
+}
+.revolution-Paragraph{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.Therevolution-part{
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;  
+    font-weight: 200;
+}
+/* .sectionss{
+    background-color: #616161;
+}
+.Thefeature-part{
+    text-align: center;
+    border: 3px solid red;
+    hegi
+} */
