@@ -44,8 +44,8 @@ body{
 }
 
 #features {
-    height: 130vh ;
-    border: 3px solid rgb(226, 131, 43);
+    height: 137vh ;
+    border: 3px solid rgb(92, 92, 92);
 }
 
 #pricing {
@@ -456,11 +456,240 @@ img{
     font-family: "Poppins", sans-serif;  
     font-weight: 200;
 }
-/* .sectionss{
+.sectionss{
     background-color: #616161;
 }
 .Thefeature-part{
     text-align: center;
-    border: 3px solid red;
-    hegi
-} */
+    /* border: 3px solid red; */
+    height: 15vh;
+    width: 30%;
+    margin-left: 630px;
+    margin-top: 5%;
+}
+.Thefeature-part{
+    font-size: 84px;
+    color: white;
+}
+.Thisapp-part{
+    /* border: 3px solid rgb(131, 65, 65); */
+    width: 30%;
+    height: 5vh;
+    margin-left: 630px;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 21px;
+    color: white;
+}
+.Fonts-section{
+    /* border: 3px solid blue; */
+    height: 20vh;
+    width: 83%;
+    margin-left: 150px;
+    margin-top: 4%;
+    font-size: 21px;
+}
+.Fonts-section i{
+    font-size: 88px;
+    padding-top: 4%;
+    padding-left: 9%;
+
+}
+.thefast-section{
+    /* border: 3px solid green; */
+    width: 5%;
+    height: 20vh;
+    margin-left: 50px;
+}
+.fa-bolt{
+    color: #ff9800;  
+}
+.fast-text{
+    color: white;
+    padding-top: 30%;
+    padding-left: 9%;
+}
+.thelove-section{
+    /* border: 3px solid rgb(128, 0, 0); */
+    width: 5%;
+    height: 20vh;
+    margin-left: 50px;
+}
+.fa-heart{
+    color:#f44336
+}
+
+.heart-section i{
+    font-size: 88px;
+    padding-top: 4%;
+    padding-left: 9%;
+}
+.thelove-section{
+    margin-left: 623px;
+    margin-top: -158px;
+    font-size: 88px;
+}
+.loved-text{
+    color: white;
+    margin-top: -20% ;
+    padding-left: 9%;
+    font-size: 21px;
+}
+.theclarity-section{
+    margin-left: 1070px;
+    margin-top: -159px;
+    font-size: 88px; 
+}
+.fa-camera{
+    color: #d2be0e;
+}
+.clarity-text{
+    color: white;
+    margin-top: -12px;
+    padding-left: 2%;
+    font-size: 21px;
+}
+.thebattery-section{
+    margin-left: 1500px;
+    margin-top: -160px;
+    font-size: 88px; 
+}
+.fa-battery-full{
+   color: #4CAF50;
+}
+.battery-text{
+    color: white;
+    margin-top: -7px;
+    padding-left: 8%;
+    font-size: 21px;
+}
+.secondFonts-section{
+    /* border: 3px solid rgb(255, 0, 0); */
+    height: 20vh;
+    width: 83%;
+    margin-left: 150px;
+    margin-top: 6%;
+    font-size: 21px;
+}
+.thediamond-section{
+    width: 5%;
+    margin-left: 35px;
+    font-size: 88px;
+}
+.fa-diamond{
+    color: #fff;
+}
+.diamond-text{
+    color: white;
+    margin-top: -14%;
+    padding-left: 19%;
+    font-size: 21px;
+}
+.thecloud-section{
+    margin-left: 623px;
+    margin-top: -157px;
+    font-size: 88px;
+
+}
+.fa-cloud{
+    color:#2196F3
+}
+.cloud-text{
+    color: white;
+    margin-top: -1% ;
+    padding-left: 1%;
+    font-size: 21px;  
+}
+.theearth-section{
+    margin-left: 1085px;
+    margin-top: -159px;
+    font-size: 88px; 
+}
+.fa-globe{
+    color:#ffc107;
+}
+.world-text{
+    color: white;
+    margin-top: -12px;
+    padding-left: 1%;
+    font-size: 21px; 
+}
+.thestorage-section{
+    margin-left: 1510px;
+    margin-top: -160px;
+    font-size: 88px;
+}
+.fa-hdd-o{
+    color:#00bcd4;
+}
+.storage-text{
+    color: white;
+    margin-top: -7px;
+    padding-left: -4%;
+    font-size: 21px;
+}
+.thirdFonts-section{
+    /* border: 3px solid rgb(255, 0, 0); */
+    height: 20vh;
+    width: 83%;
+    margin-left: 150px;
+    margin-top: 6%;
+    font-size: 21px;
+}
+.thecontact-section{
+    width: 5%;
+    margin-left: 50px;
+    font-size: 88px;
+}
+.fa-user{
+    color:#fdf5e6;
+}
+.contact-text{
+    color: white;
+    margin-top: -14%;
+    padding-left: 10%;
+    font-size: 21px;
+}
+.theshield-section{
+    margin-left: 635px;
+    margin-top: -157px;
+    font-size: 88px;
+
+}
+.fa-shield{
+    color:#ff9800;
+}
+.shield-text{
+    color: white;
+    margin-top: -1% ;
+    padding-left: -2%;
+    font-size: 21px;  
+}
+.thewifi-section{
+    margin-left: 1075px;
+    margin-top: -159px;
+    font-size: 88px; 
+}
+.fa-wifi{
+    color:#757575;
+}
+.wifi-text{
+    color: white;
+    margin-top: -12px;
+    margin-left: -1%;
+    font-size: 21px; 
+}
+.theimage-section{
+    margin-left: 1505px;
+    margin-top: -160px;
+    font-size: 88px;  
+}
+.fa-image{
+    color: #e91e63;
+}
+.image-text{
+    color: white;
+    margin-top: -7px;
+    padding-left: 11%;
+    font-size: 21px;
+}
