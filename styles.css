@@ -13,7 +13,6 @@ body{
 
 #app-launch{
     background-color: white;
-    border-color: blue;
     height: auto;
 }
 
@@ -24,7 +23,6 @@ body{
 
 #header {
     height: 141.5vh;
-    border-color: red;
     color: #fff ;
     position: relative ;
    
@@ -33,31 +31,27 @@ body{
 
 #the-app {
     height: 105vh ;
-    /* border: 3px solid blueviolet; */
 
 }
 
 #clarity{
    height:100vh ;
-   border: 3px solid rgb(255, 255, 255);
+
    
 }
 
 #features {
     height: 137vh ;
-    border: 3px solid rgb(92, 92, 92);
 }
 
 #pricing {
     height:150vh ;
-    border: 3px solid rgb(43, 55, 226);
     text-align: center;
     padding: 0 2.5vh 0 2.5vh;
 }
 
 #footer {
     height:28vh ;
-    border: 3px solid rgb(80, 226, 43);
     background-color: #f1f1f1;
     display: flex;
     flex-direction: column;
@@ -65,11 +59,7 @@ body{
     align-items: center;
 }
 
-h1{
-    border: none;
-}
 .App-section{
-    /* border: 3px solid blue; */
     height: 16vh;
     width: 30%;
     margin-top: 5%;
@@ -80,7 +70,7 @@ h1{
     font-family: "Poppins", sans-serif;
 }
 .Buyit-part{
-    /* border: 3px solid rgb(255, 17, 0); */
+
     height: 16vh;
     width: 30%;
     margin-top: 14px;
@@ -93,7 +83,6 @@ h1{
     color: #4CAF50 ;
 }
 .first-Paragraph{
-    /* border: 3px solid rgb(255, 123, 0); */
     height: 23vh;
     width: 65%;
     margin-top: 3px;
@@ -109,7 +98,6 @@ h1{
     font-weight: 200;
 }
 .Thebutton-part{
-    /* border: 3px solid rgb(145, 255, 0); */
     height: 8vh;
     width: 18%;
     margin-top: 4px;
@@ -374,7 +362,6 @@ td{
 }
 
 .option-section{
-    /* border: 3px solid rgb(0, 102, 255); */
     height: 9vh;
     width: 17%;
     margin-top: 41px;
@@ -417,7 +404,6 @@ img{
     background-color: #f1f1f1;
 }
 .clarity-section{
-    /* border: 3px solid blue; */
     height: 16vh;
     width: 30%;
     margin-top: -34%;
@@ -428,7 +414,6 @@ img{
     font-family: "Poppins", sans-serif;
 }
 .Pixels-part{
-    /* border: 3px solid rgb(255, 17, 0); */
     height: 16vh;
     width: 30%;
     margin-top: 1%;
@@ -441,7 +426,7 @@ img{
     color: #f44336 ;
 }
 .second-Paragraph{
-    /* border: 3px solid rgb(255, 123, 0); */
+
     height: 23vh;
     width: 65%;
     margin-top: 2px;
@@ -461,7 +446,6 @@ img{
 }
 .Thefeature-part{
     text-align: center;
-    /* border: 3px solid red; */
     height: 15vh;
     width: 30%;
     margin-left: 630px;
@@ -472,7 +456,6 @@ img{
     color: white;
 }
 .Thisapp-part{
-    /* border: 3px solid rgb(131, 65, 65); */
     width: 30%;
     height: 5vh;
     margin-left: 630px;
@@ -482,7 +465,6 @@ img{
     color: white;
 }
 .Fonts-section{
-    /* border: 3px solid blue; */
     height: 20vh;
     width: 83%;
     margin-left: 150px;
@@ -491,12 +473,11 @@ img{
 }
 .Fonts-section i{
     font-size: 88px;
-    padding-top: 4%;
+    padding-top: 2%;
     padding-left: 9%;
 
 }
 .thefast-section{
-    /* border: 3px solid green; */
     width: 5%;
     height: 20vh;
     margin-left: 50px;
@@ -506,11 +487,10 @@ img{
 }
 .fast-text{
     color: white;
-    padding-top: 30%;
+    padding-top: 15%;
     padding-left: 9%;
 }
 .thelove-section{
-    /* border: 3px solid rgb(128, 0, 0); */
     width: 5%;
     height: 20vh;
     margin-left: 50px;
@@ -564,7 +544,6 @@ img{
     font-size: 21px;
 }
 .secondFonts-section{
-    /* border: 3px solid rgb(255, 0, 0); */
     height: 20vh;
     width: 83%;
     margin-left: 150px;
@@ -629,7 +608,7 @@ img{
     font-size: 21px;
 }
 .thirdFonts-section{
-    /* border: 3px solid rgb(255, 0, 0); */
+
     height: 20vh;
     width: 83%;
     margin-left: 150px;
@@ -646,7 +625,7 @@ img{
 }
 .contact-text{
     color: white;
-    margin-top: -14%;
+    margin-top: -10%;
     padding-left: 10%;
     font-size: 21px;
 }
