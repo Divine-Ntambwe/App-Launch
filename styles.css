@@ -68,6 +68,40 @@ body{
 h1{
     border: none;
 }
+
+#features-icons {
+    border: 2px solid red ;
+    width: 100% ;
+    height: inherit;
+    margin: 0 5vh 0 5vh;
+
+    display: flexbox;
+   flex-direction: row;
+   
+
+}
+
+.icon-rows {
+    width: 100% ;
+    height: 33% ;
+    border: 2px solid black;
+
+    display: flex;
+   
+   
+}
+
+.icon-rows div {
+
+    width: 25% ;
+    height: auto ;
+    border: 2px solid blue;
+
+}
+
+
+
+
 .App-section{
     /* border: 3px solid blue; */
     height: 16vh;
